@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JuliaStan
+- 👀 I’m interested in expanding my knowledge, sharing and recieving usefull information.
+- 🌱 I’m currently learning C++, Java, and Web Development.
+- 📫 Reach me by e-mail: stankiewiczjulia28@gmail.com 
